@@ -12,7 +12,8 @@ Skills: Python /JS / REACT / HTML / CSS
 - 🌱 I’m currently learning Python  
 - 📫 How to reach me: baraahmad232@gmail.com 
 - ⚡ Fun fact: I love the gym 
-
+![bara080's Stats](https://github-readme-stats.vercel.app/api?username=bara080&theme=radical&show_icons=true&hide_border=true&count_private=false)
+![bara080's Stats](https://github-readme-stats.vercel.app/api?username=bara080&theme=radical&show_icons=true&hide_border=true&count_private=false)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bara080)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abaramoh//)  
 
