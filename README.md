@@ -1,10 +1,8 @@
 ### Hi there ✌🏿 I'm Bara from Brooklyn
 
-### Hi there 👋, Hi, ✌🏿 I'm Bara Ahmad
-#### I am GitHub Readme Generator's creator
 
 
- Machine Learning Researcher and Software Engineer passionate about building powerful, data-driven solutions. From optimizing data pipelines on Cloud to achieving 100% accuracy in ASL gesture recognition, I transform complex ideas into practical
+I'm Researcher and Software Engineer passionate about building powerful, data-driven solutions. From optimizing data pipelines on Cloud to achieving 100% accuracy in ASL gesture recognition, I transform complex ideas into practical
 
 Skills: Python /JS / REACT / HTML / CSS
 
