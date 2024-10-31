@@ -1,6 +1,7 @@
 ### Hi there 👋, Hi, ✌🏿 I'm Bara Ahmad
 #### Research & Engineer
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+(https://www.linkedin.com/in/abaramoh/overlay/background-image/)
 
 I'm Researcher and Software Engineer passionate about building powerful, data-driven solutions. From optimizing data pipelines on Cloud to achieving 100% accuracy in ASL gesture recognition, I transform complex ideas into practical
 
