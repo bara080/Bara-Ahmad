@@ -1,8 +1,24 @@
 ### Hi there ✌🏿 I'm Bara from Brooklyn
 
-Hi! I'm Bara A.M, a Machine Learning Researcher and Software Engineer passionate about building powerful, data-driven solutions. From optimizing data pipelines on Cloud to achieving 100% accuracy in ASL gesture recognition, I transform complex ideas into practical applications. Check out my repositories to see how I blend technical depth with creativity!
-🌍  I'm based in New York City
-✉️  You can contact me at baraahmad232@gmail.com
-🤝  Connect & Collaborate
+### Hi there 👋, Hi, ✌🏿 I'm Bara Ahmad
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-https://gh-stats-gen.vercel.app/
+ Machine Learning Researcher and Software Engineer passionate about building powerful, data-driven solutions. From optimizing data pipelines on Cloud to achieving 100% accuracy in ASL gesture recognition, I transform complex ideas into practical
+
+Skills: Python /JS / REACT / HTML / CSS
+
+- 🔭 I’m currently working on AV & ASL Recognition Model 
+- 🌱 I’m currently learning Python  
+- 📫 How to reach me: baraahmad232@gmail.com 
+- ⚡ Fun fact: I love the gym 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bara080)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abaramoh//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/bara080)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/bara080&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/bara080)  
+
