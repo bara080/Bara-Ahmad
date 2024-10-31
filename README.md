@@ -4,3 +4,5 @@ Hi! I'm Bara A.M, a Machine Learning Researcher and Software Engineer passionate
 🌍  I'm based in New York City
 ✉️  You can contact me at baraahmad232@gmail.com
 🤝  Connect & Collaborate
+
+https://gh-stats-gen.vercel.app/
